@@ -214,6 +214,6 @@ predict_image(model, image_index=190, dataset=test_dataset)
 ![image alt](https://github.com/Thirumurugan2/Develop-a-Convolutional-Deep-Neural-Network-for-Image-Classification/blob/3baba82f0fbb09a249432bf9b8ce32e8b8069279/Screenshot%202026-03-22%20085252.png)
 ### New Sample Data Prediction
 
-![image alt](https://github.com/MohanKrishnaJ/Develop-a-Convolutional-Deep-Neural-Network-for-Image-Classification/blob/0481ff25b076eb192c8dc3b540612137b0d43ad2/Screenshot%202026-03-16%20012519.png)
+![image alt](https://github.com/Thirumurugan2/Develop-a-Convolutional-Deep-Neural-Network-for-Image-Classification/blob/d4970a6012642469b0a09adef4fb1e42976c76e7/Screenshot%202026-03-22%20090159.png)
 ## RESULT
 This program has been executed successfully.
