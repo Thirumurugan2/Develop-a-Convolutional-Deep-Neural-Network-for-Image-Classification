@@ -4,7 +4,7 @@
 To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
 
 ##   PROBLEM STATEMENT AND DATASET
-Develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images
+The aim of this experiment is to develop a Convolutional Neural Network (CNN) model to classify images into different categories. The model takes image data as input, learns important features using convolutional layers, and predicts the correct class label. A dataset of labeled images (such as handwritten digits from 0 to 9) is used to train and test the model. Finally, the performance of the model is evaluated, and it is used to predict the class of new unseen images.
 ## Neural Network Model
 <img width="909" height="639" alt="Screenshot 2026-02-27 101952" src="https://github.com/user-attachments/assets/cdfd0070-23f6-4f3e-b336-5f326376289c" />
 
